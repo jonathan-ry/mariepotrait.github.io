@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    align-items: center;
+    justify-content: center;
+    height: 200vh;
+    background: #000;
+    
+}
+
+p{
+    font-size: 10px;
+    line-height: 10px;
+    text-align: justify;
+    background: url(img/photo_2021-11-18_20-21-19.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: rgba(255, 255, 255, 0);
+}
